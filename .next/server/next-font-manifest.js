@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/adityagarud/specs_try_on/app/layout\":[\"static/media/4f05ba3a6752a328-s.p.woff2\",\"static/media/07a54048a9278940-s.p.woff2\",\"static/media/dcc209c0b1ab30af-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
